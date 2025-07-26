@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\2025\\asp.net\\mvc\\FirstMVCProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86DDCAFD-B1D1-4E07-83CC-BC1041482D2C}|FirstMVCProject\\FirstMVCProject.csproj|d:\\study\\2025\\asp.net\\mvc\\firstmvcproject\\firstmvcproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86DDCAFD-B1D1-4E07-83CC-BC1041482D2C}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DDCAFD-B1D1-4E07-83CC-BC1041482D2C}|FirstMVCProject\\FirstMVCProject.csproj|d:\\study\\2025\\asp.net\\mvc\\firstmvcproject\\firstmvcproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DDCAFD-B1D1-4E07-83CC-BC1041482D2C}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DDCAFD-B1D1-4E07-83CC-BC1041482D2C}|FirstMVCProject\\FirstMVCProject.csproj|d:\\study\\2025\\asp.net\\mvc\\firstmvcproject\\firstmvcproject\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DDCAFD-B1D1-4E07-83CC-BC1041482D2C}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\study\\2025\\asp.net\\mvc\\FirstMVCProject\\FirstMVCProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\study\\2025\\asp.net\\mvc\\FirstMVCProject\\FirstMVCProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FirstMVCProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T03:45:59.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\study\\2025\\asp.net\\mvc\\FirstMVCProject\\FirstMVCProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\study\\2025\\asp.net\\mvc\\FirstMVCProject\\FirstMVCProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FirstMVCProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T03:37:44.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\study\\2025\\asp.net\\mvc\\FirstMVCProject\\FirstMVCProject\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Models\\Student.cs",
+              "ToolTip": "D:\\study\\2025\\asp.net\\mvc\\FirstMVCProject\\FirstMVCProject\\Models\\Student.cs",
+              "RelativeToolTip": "FirstMVCProject\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T03:30:17.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

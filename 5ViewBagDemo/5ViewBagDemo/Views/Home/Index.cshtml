@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@{
+    int res = ViewBag.Num1 + ViewBag.Num2; 
+}
+
+<div class="container">
+    <h2>Roll:@ViewBag.Roll</h2>
+    <h2>Name:@ViewBag.Name</h2>
+    <h2>Course:@ViewBag.Course</h2>
+    <h2>Fee:@ViewBag.Fee</h2>
+    <h2>Sum:@res</h2>
+</div>

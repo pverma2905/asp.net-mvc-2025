@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@{
+    int qty = Convert.ToInt32(ViewData["prodQty"]);
+    decimal price = Convert.ToDecimal(ViewData["prodPrice"]);
+    decimal total = qty * price;
+}
+
+<div class="container">
+    <h1>Product Details</h1>
+    <hr/>
+    <h3>ProductId:@ViewData["prodId"]</h3>
+    <h3>ProductName:@ViewData["prodName"]</h3>
+	<h3>ProductPrice:@ViewData["prodPrice"]</h3>
+	<h3>ProductDescription:@ViewData["prodDescription"]</h3>
+	<h3>ProductCategory:@ViewData["prodCategory"]</h3>
+	<h3>ProductQuantity:@ViewData["prodQty"]</h3>
+    <h3>Total:@total</h3>
+	<hr />
+	<a class="btn btn-primary" href="/Home/Index">Back to Home</a>
+    
+</div>

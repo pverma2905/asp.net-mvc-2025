@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\2025\\asp.net\\mvc\\4ViewDataDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8057459F-5DDD-49E7-9EDA-793D1B8BBB5F}|4ViewDataDemo\\4ViewDataDemo.csproj|d:\\study\\2025\\asp.net\\mvc\\4viewdatademo\\4viewdatademo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8057459F-5DDD-49E7-9EDA-793D1B8BBB5F}|4ViewDataDemo\\4ViewDataDemo.csproj|solutionrelative:4viewdatademo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8057459F-5DDD-49E7-9EDA-793D1B8BBB5F}|4ViewDataDemo\\4ViewDataDemo.csproj|d:\\study\\2025\\asp.net\\mvc\\4viewdatademo\\4viewdatademo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8057459F-5DDD-49E7-9EDA-793D1B8BBB5F}|4ViewDataDemo\\4ViewDataDemo.csproj|solutionrelative:4viewdatademo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\study\\2025\\asp.net\\mvc\\4ViewDataDemo\\4ViewDataDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "4ViewDataDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\study\\2025\\asp.net\\mvc\\4ViewDataDemo\\4ViewDataDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "4ViewDataDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T02:13:43.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\study\\2025\\asp.net\\mvc\\4ViewDataDemo\\4ViewDataDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "4ViewDataDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\study\\2025\\asp.net\\mvc\\4ViewDataDemo\\4ViewDataDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "4ViewDataDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T02:11:48.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

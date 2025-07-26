@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\2025\\asp.net\\mvc\\MultiModelPass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{098842D3-E828-42E9-8637-F01E615293F6}|MultiModelPass\\MultiModelPass.csproj|d:\\study\\2025\\asp.net\\mvc\\multimodelpass\\multimodelpass\\views\\home\\showstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{098842D3-E828-42E9-8637-F01E615293F6}|MultiModelPass\\MultiModelPass.csproj|solutionrelative:multimodelpass\\views\\home\\showstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098842D3-E828-42E9-8637-F01E615293F6}|MultiModelPass\\MultiModelPass.csproj|d:\\study\\2025\\asp.net\\mvc\\multimodelpass\\multimodelpass\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098842D3-E828-42E9-8637-F01E615293F6}|MultiModelPass\\MultiModelPass.csproj|solutionrelative:multimodelpass\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098842D3-E828-42E9-8637-F01E615293F6}|MultiModelPass\\MultiModelPass.csproj|d:\\study\\2025\\asp.net\\mvc\\multimodelpass\\multimodelpass\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{098842D3-E828-42E9-8637-F01E615293F6}|MultiModelPass\\MultiModelPass.csproj|solutionrelative:multimodelpass\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098842D3-E828-42E9-8637-F01E615293F6}|MultiModelPass\\MultiModelPass.csproj|d:\\study\\2025\\asp.net\\mvc\\multimodelpass\\multimodelpass\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098842D3-E828-42E9-8637-F01E615293F6}|MultiModelPass\\MultiModelPass.csproj|solutionrelative:multimodelpass\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowStudents.cshtml",
+              "DocumentMoniker": "D:\\study\\2025\\asp.net\\mvc\\MultiModelPass\\MultiModelPass\\Views\\Home\\ShowStudents.cshtml",
+              "RelativeDocumentMoniker": "MultiModelPass\\Views\\Home\\ShowStudents.cshtml",
+              "ToolTip": "D:\\study\\2025\\asp.net\\mvc\\MultiModelPass\\MultiModelPass\\Views\\Home\\ShowStudents.cshtml",
+              "RelativeToolTip": "MultiModelPass\\Views\\Home\\ShowStudents.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T01:39:21.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\study\\2025\\asp.net\\mvc\\MultiModelPass\\MultiModelPass\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MultiModelPass\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\study\\2025\\asp.net\\mvc\\MultiModelPass\\MultiModelPass\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MultiModelPass\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T01:25:04.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\study\\2025\\asp.net\\mvc\\MultiModelPass\\MultiModelPass\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MultiModelPass\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\study\\2025\\asp.net\\mvc\\MultiModelPass\\MultiModelPass\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MultiModelPass\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T04:52:27.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\study\\2025\\asp.net\\mvc\\MultiModelPass\\MultiModelPass\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "MultiModelPass\\Models\\Student.cs",
+              "ToolTip": "D:\\study\\2025\\asp.net\\mvc\\MultiModelPass\\MultiModelPass\\Models\\Student.cs",
+              "RelativeToolTip": "MultiModelPass\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T04:50:42.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

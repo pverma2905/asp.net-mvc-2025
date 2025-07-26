@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+   <form action="/Home/ShowData" method="post">
+       <div class="form-group mt-2">
+           <label>Student Id</label>
+            <input type="text" class="form-control" name="sid" />
+       </div>
+        <div class="form-group mt-2">
+            <label>Student name</label>
+            <input type="text" class="form-control" name="sname" />
+        </div>
+        <div class="form-group mt-2">
+           <label>Student Dob</label>
+            <input type="date" class="form-control" name="sdob" />
+       </div>
+        <div class="form-group mt-2">
+            <label>Student Gender</label>
+            <select name="sgen" class="form-control">
+                <option value="Male">Male</option>
+                <option value="Female">Female</option>
+                <option value="other">Other</option>
+            </select>
+        </div>
+        <input type="submit" class="btn btn-danger mt-2" value="Submit" />
+   </form>
+</div>
