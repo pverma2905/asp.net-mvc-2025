@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\2025\\asp.net\\mvc\\11StandardHelper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{096F3991-27B6-40E2-BA68-DA2E48E98361}|11StandardHelper\\11StandardHelper.csproj|d:\\study\\2025\\asp.net\\mvc\\11standardhelper\\11standardhelper\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{096F3991-27B6-40E2-BA68-DA2E48E98361}|11StandardHelper\\11StandardHelper.csproj|solutionrelative:11standardhelper\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096F3991-27B6-40E2-BA68-DA2E48E98361}|11StandardHelper\\11StandardHelper.csproj|d:\\study\\2025\\asp.net\\mvc\\11standardhelper\\11standardhelper\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096F3991-27B6-40E2-BA68-DA2E48E98361}|11StandardHelper\\11StandardHelper.csproj|solutionrelative:11standardhelper\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\study\\2025\\asp.net\\mvc\\11StandardHelper\\11StandardHelper\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "11StandardHelper\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\study\\2025\\asp.net\\mvc\\11StandardHelper\\11StandardHelper\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "11StandardHelper\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T13:09:24.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\study\\2025\\asp.net\\mvc\\11StandardHelper\\11StandardHelper\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "11StandardHelper\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\study\\2025\\asp.net\\mvc\\11StandardHelper\\11StandardHelper\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "11StandardHelper\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwEsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T05:31:03.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

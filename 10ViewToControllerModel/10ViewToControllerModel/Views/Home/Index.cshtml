@@ -2,7 +2,24 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="container">
+   <form action="Product/ShowData" method="post">
+        <div class="form-group mt-2">
+            <label>Product Id</label>
+            <input type="text" class="form-control" name="prodid" />
+        </div>
+        <div class="form-group mt-2">
+            <label>Product Name</label>
+            <input type="text" class="form-control" name="prodname" />
+        </div>
+        <div class="form-group mt-2">
+            <label>Product Quantity</label>
+            <input type="text" class="form-control" name="prodqty" />
+        </div>
+        <div class="form-group mt-2">
+            <label>Product Price</label>
+            <input type="text" class="form-control" name="prodprice" />
+        </div>
+        <input type="submit" class="btn btn-danger mt-2" value="Submit" />
+   </form>
 </div>

@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\study\\2025\\asp.net\\mvc\\10ViewToControllerModel\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1465BBB-6D25-4586-AFA9-73DCA8712718}|10ViewToControllerModel\\10ViewToControllerModel.csproj|d:\\study\\2025\\asp.net\\mvc\\10viewtocontrollermodel\\10viewtocontrollermodel\\views\\product\\showdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1465BBB-6D25-4586-AFA9-73DCA8712718}|10ViewToControllerModel\\10ViewToControllerModel.csproj|solutionrelative:10viewtocontrollermodel\\views\\product\\showdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1465BBB-6D25-4586-AFA9-73DCA8712718}|10ViewToControllerModel\\10ViewToControllerModel.csproj|d:\\study\\2025\\asp.net\\mvc\\10viewtocontrollermodel\\10viewtocontrollermodel\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1465BBB-6D25-4586-AFA9-73DCA8712718}|10ViewToControllerModel\\10ViewToControllerModel.csproj|solutionrelative:10viewtocontrollermodel\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1465BBB-6D25-4586-AFA9-73DCA8712718}|10ViewToControllerModel\\10ViewToControllerModel.csproj|d:\\study\\2025\\asp.net\\mvc\\10viewtocontrollermodel\\10viewtocontrollermodel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1465BBB-6D25-4586-AFA9-73DCA8712718}|10ViewToControllerModel\\10ViewToControllerModel.csproj|solutionrelative:10viewtocontrollermodel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1465BBB-6D25-4586-AFA9-73DCA8712718}|10ViewToControllerModel\\10ViewToControllerModel.csproj|d:\\study\\2025\\asp.net\\mvc\\10viewtocontrollermodel\\10viewtocontrollermodel\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1465BBB-6D25-4586-AFA9-73DCA8712718}|10ViewToControllerModel\\10ViewToControllerModel.csproj|solutionrelative:10viewtocontrollermodel\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowData.cshtml",
+              "DocumentMoniker": "D:\\study\\2025\\asp.net\\mvc\\10ViewToControllerModel\\10ViewToControllerModel\\Views\\Product\\ShowData.cshtml",
+              "RelativeDocumentMoniker": "10ViewToControllerModel\\Views\\Product\\ShowData.cshtml",
+              "ToolTip": "D:\\study\\2025\\asp.net\\mvc\\10ViewToControllerModel\\10ViewToControllerModel\\Views\\Product\\ShowData.cshtml",
+              "RelativeToolTip": "10ViewToControllerModel\\Views\\Product\\ShowData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T04:22:05.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\study\\2025\\asp.net\\mvc\\10ViewToControllerModel\\10ViewToControllerModel\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "10ViewToControllerModel\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\study\\2025\\asp.net\\mvc\\10ViewToControllerModel\\10ViewToControllerModel\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "10ViewToControllerModel\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T04:17:10.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\study\\2025\\asp.net\\mvc\\10ViewToControllerModel\\10ViewToControllerModel\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "10ViewToControllerModel\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\study\\2025\\asp.net\\mvc\\10ViewToControllerModel\\10ViewToControllerModel\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "10ViewToControllerModel\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T02:23:13.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\study\\2025\\asp.net\\mvc\\10ViewToControllerModel\\10ViewToControllerModel\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "10ViewToControllerModel\\Models\\Product.cs",
+              "ToolTip": "D:\\study\\2025\\asp.net\\mvc\\10ViewToControllerModel\\10ViewToControllerModel\\Models\\Product.cs",
+              "RelativeToolTip": "10ViewToControllerModel\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T02:20:02.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,102 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@{
+    List<string> crs = new List<string>();
+    crs.Add("BCA");
+    crs.Add("MCA");
+    crs.Add("PGDCA");
+    crs.Add("DCA");
+    crs.Add("ADCA");
+}
+
+
+<div class="container-fluid">
+    <div>
+        If already registered, Click Here To @Html.ActionLink("login", "Login", "Home")
+    </div>
+    <br/>
+    <div class="row">
+        <div class="col-lg-4 col-md-6 col-sm-12">
+            @using(Html.BeginForm("ShowData", "Home"))
+            {
+                <div>
+                    @Html.Label("nm", "Enter Your Name", new { @class = "form-label" })
+                </div>
+                <div>
+                    @Html.TextBox("nm", "", new { @class = "form-control" })
+                </div>
+
+                <div>
+                    @Html.Label("fn", "Enter Your Father's Name", new { @class = "form-label" })
+                </div>
+                <div>
+                    @Html.TextBox("fn", "", new { @class = "form-control" })
+                </div>
+
+                <div>
+                    @Html.Label("pass", "Enter Passsword", new { @class = "form-label" })
+                </div>
+                <div>
+                    @Html.Password("pass", "", new { @class = "form-control" })
+                </div>
+
+                <div>
+                    @Html.Label("rpass", "Re-Type Password", new { @class = "form-label" })
+                </div>
+                <div>
+                    @Html.Password("rpass", "", new { @class = "form-control" })
+                </div>
+
+                <div>
+                    @Html.Label("gen", "Select Gender", new { @class = "form-label" })
+                </div>
+                <div>
+                    @Html.RadioButton("gen", "Male",true,new {id="male"}) Male
+                    @Html.RadioButton("gen", "Female", true, new { id = "female" }) Female
+                    @Html.RadioButton("gen", "Other", true, new { id = "other" }) Other
+                </div>
+                <br/>
+
+                <div>
+                    @Html.Label("course", "Select Course", new { @class = "form-label" })
+                </div>
+                <div>
+                    @Html.DropDownList("gen", new SelectList(crs), "--Select Course--",new { @class = "form-label" })
+                </div>
+                <br/>
+
+                <div>
+                    @Html.Label("hobbies", "Select Hobbies", new { @class = "form-label" })
+                </div>
+                <div>
+                    @Html.CheckBox("cricket", false) Cricket
+                    @Html.CheckBox("music", false) Music
+                    @Html.CheckBox("games", false) Games
+                    @Html.CheckBox("reading", false) Reading
+                </div>
+                <br/>
+
+                <div>
+                    @Html.Label("address", "Enter Address", new { @class = "form-label" })
+                </div>
+                <div>
+                    @Html.TextArea("address", "", new { @class = "form-control" })
+                </div>
+                <br/>
+                <div>
+                    <input type="submit" class="btn btn-success" value="Register" />
+                    <input type="reset" class="btn btn-danger" value="Reset" />
+                </div>
+
+              
+                
+                
+            }
+            </div>
+        </div>
+
+    </div>
+   
+   
+ 
